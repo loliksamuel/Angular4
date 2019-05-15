@@ -1,10 +1,11 @@
 # Ang1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
-'npm install -g @angular/cli'
-'ng new my-dream-app'
-'cd my-dream-app'
-'ng serve'
+`npm install -g @angular/cli`
+`ng new my-dream-app`
+`cd my-dream-app`
+`ng serve`
+`http://localhost:4200/`
 
 ## Development server
 
